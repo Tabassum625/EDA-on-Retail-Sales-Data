@@ -126,14 +126,13 @@ Based on the EDA, businesses can:
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 EDA-on-Retail-Sales-Data/
 │
 ├── EDA_Retail_Sales_Data.ipynb
 ├── realistic_e_commerce_sales_data.csv
 └── README.md
-
 
 Author
 Retail Sales Data EDA Project
