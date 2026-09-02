@@ -128,7 +128,6 @@ Based on the EDA, businesses can:
 
 ## 📁 Project Structure
 
-```text
 EDA-on-Retail-Sales-Data/
 │
 ├── EDA_Retail_Sales_Data.ipynb
